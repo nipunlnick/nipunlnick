@@ -35,10 +35,6 @@ improve user experience and address real-world challenges.
   <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" width="40" height="40"/>
 
-## 🌐 Interests
-- **Professional**: Mobile app development, software development, frontend development, graphic design
-- **Personal**: Watching movies and TV series
-
 ## 🎨 Hobbies
 - Watching movies and TV series
 - Travelling and Camping
