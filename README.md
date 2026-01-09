@@ -3,7 +3,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=nipunlnick)
 
 ## 👨‍🎓 About Me
-I am a dedicated student currently pursuing an **undergraduate B.Sc. (Hons) in Electronics and IT** at the University of Colombo. My passion lies in **mobile app development, software development,** and **frontend development**.
+I am a dedicated student currently pursuing an **B.Sc. (Hons) in Electronics and IT** at the University of Colombo. My passion lies in **mobile app development, software development,** and **frontend development**.
+
+🔗 **Portfolio:** 👉 [nipunlakshitha.netlify.app](https://nipunlakshitha.netlify.app)   
+💼 **LinkedIn:** [pvnipunlakshitha](https://www.linkedin.com/in/pvnipunlakshitha)
 
 ## 🎯 Objective
 Aspiring to leverage my skills in software and mobile app development to create innovative solutions that 
@@ -64,6 +67,7 @@ improve user experience and address real-world challenges.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunlnick&layout=compact&theme=dark)
 
 ## 📬 Contact
+- **Portfolio:** https://nipunlakshitha.netlify.app  
 - **Personal Email**: [nipunl1sandu@gmail.com](mailto:nipunl1sandu@gmail.com)
 - **Professional Email**: [pvnipunlakshitha@gmail.com](mailto:pvnipunlakshitha@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pvnipunlakshitha)
