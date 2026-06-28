@@ -1,80 +1,253 @@
-# 🌟 P. V. Nipun Lakshitha
-
-![Profile Views](https://komarev.com/ghpvc/?username=nipunlnick)
-
-## 👨‍🎓 About Me
-I am a dedicated student currently pursuing an **B.Sc. (Hons) in Electronics and IT** at the University of Colombo. My passion lies in **mobile app development, software development,** and **frontend development**.
-
-🔗 **Portfolio:** 👉 [nipunlakshitha.netlify.app](https://nipunlakshitha.netlify.app)   
-💼 **LinkedIn:** [pvnipunlakshitha](https://www.linkedin.com/in/pvnipunlakshitha)
-
-## 🎯 Objective
-Aspiring to leverage my skills in software and mobile app development to create innovative solutions that 
-improve user experience and address real-world challenges.
-
-## 🎓 Education
-- **Undergraduate**: B.Sc. (Hons) in Electronics and IT, University of Colombo
-- **Diploma**: Cyber Security and Ethical Hacking, SITC Campus
-
-## 🛠️ Skills
-- 📱 Mobile App Development
-- 💻 Software Development
-- 🎨 Frontend Development
-- 🔒 Cyber Security and Ethical Hacking
-- 🖌️ Graphic Design
-
-## 🚀 Projects
-- **Medicine-Dispenser-interfacing-atmega32**: Developed an innovative system using Atmega32 microcontroller for automated medicine dispensing.
-- **NickServePOS Mobile App**: Developed a mobile app for point-of-sale services using Firebase and Android Studio.
-- **Customer Churn Prediction**: Collaborated to develop a machine learning project for predicting customer churn in banks using various classification algorithms and ensemble techniques.
-- **Smart Clock Device**: Collaborated to develop a smart clock with ESP32, integrated with Firebase for remote control, GMT-based time adjustment, and mobile app alarm setup via QR scanner.
-- **Parcel Management System**: Collaborated on a parcel management project that uses a mobile app to track parcel location using IoT devices.
-
-## 🛠️ Technologies and Tools
-- **Languages**: 
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
-  <img src="https://img.icons8.com/offices/48/000000/php-logo.png" alt="PHP" width="40" height="40"/>
-- **Frameworks**:
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/>
-- **Databases**:
-  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
-- **Tools**:
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" width="40" height="40"/>
+# Hi there 👋 I'm Nipun Lakshitha
 
 
-## 🎨 Hobbies
-- Watching movies and TV series
-- Travelling and Camping
 
-## 📊 GitHub Stats
-![Nipun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nipunlnick&show_icons=true&theme=dark)
-##
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunlnick&layout=compact&theme=dark)
+### Full Stack Developer • AI Product Builder • Co-Founder @ Voxicore Solutions
 
-## 📬 Contact
-- **Portfolio:** https://nipunlakshitha.netlify.app  
-- **Personal Email**: [nipunl1sandu@gmail.com](mailto:nipunl1sandu@gmail.com)
-- **Professional Email**: [pvnipunlakshitha@gmail.com](mailto:pvnipunlakshitha@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pvnipunlakshitha)
 
-##
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nipunlnick&theme=dark)](https://git.io/streak-stats)
+
+I build web applications, mobile apps, AI-powered platforms, and business automation solutions that solve real-world problems.
+
+
+
+Currently focused on:
+
+
+
+* Building SaaS products and AI-powered applications
+
+* Full-stack development with React, Next.js, Node.js, and PostgreSQL
+
+* Mobile app development using React Native
+
+* Startup building and product development
+
+* Business automation and workflow optimization
+
+
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out if you'd like to connect or collaborate.
+
+
+## 🚀 Featured Projects
+
+
+
+### 💰 ChatWithFunds
+
+
+
+AI-powered grant discovery platform that helps startups, researchers, NGOs, and entrepreneurs find relevant funding opportunities.
+
+
+
+**Tech:** Next.js, TypeScript, AI APIs, PostgreSQL
+
+
+
+---
+
+
+
+### 🎓 SL Aptitude
+
+
+
+Exam preparation platform designed to help Sri Lankan students practice aptitude and competitive examinations.
+
+
+
+**Tech:** Next.js, TypeScript, PostgreSQL
+
+
+
+---
+
+
+
+### 🌐 Sri Lanka Water Partnership Website & CMS
+
+
+
+Redesigned and developed the website and content management system for Sri Lanka Water Partnership.
+
+
+
+**Tech:** React, Node.js, Express, MongoDB
+
+
+
+---
+
+
+
+### 📦 Parcel Management System
+
+
+
+IoT-enabled parcel tracking platform with web dashboard, backend APIs, and React Native mobile application.
+
+
+
+**Tech:** React Native, Node.js, Firebase, IoT
+
+
+
+---
+
+
+
+### 🕒 Smart Clock
+
+
+
+ESP32-based smart clock integrated with Firebase for remote alarm management, QR-based setup, and automatic time synchronization.
+
+
+
+**Tech:** ESP32, Firebase, React Native
+
+
+
+---
+
+
+
+### 💊 Automated Medicine Dispenser
+
+
+
+Microcontroller-based medicine dispensing system developed to improve medication management and adherence.
+
+
+
+**Tech:** ATmega32, Embedded Systems, C
+
+
+
+---
+
+
+
+## 🛠 Tech Stack
+
+
+
+### Frontend
+
+
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
+
+
+
+### Backend
+
+
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk)
+
+
+
+### Databases
+
+
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
+
+
+
+### Tools
+
+
+
+Git • GitHub • VS Code • Figma • Android Studio • Postman
+
+
+
+---
+
+
+
+## 📈 GitHub Stats
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nipunlnick\&show_icons=true\&theme=tokyonight)
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunlnick\&layout=compact\&theme=tokyonight)
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=nipunlnick\&theme=tokyonight)
+
+
+
+---
+
+
+
+## 🎓 Education
+
+
+
+**University of Colombo**
+
+B.Sc. (Hons) Physical Science (Electronics & Information Technology)
+
+
+
+---
+
+
+
+## 🌍 Connect With Me
+
+
+
+🌐 Portfolio: https://nipunlakshitha.netlify.app
+
+
+
+💼 LinkedIn: https://linkedin.com/in/pvnipunlakshitha
+
+
+
+📧 Email: [pvnipunlakshitha@gmail.com](mailto:pvnipunlakshitha@gmail.com)
+
+
+
+📧 Business: [aceconsultants.info@gmail.com](mailto:aceconsultants.info@gmail.com)
+
+
+
+---
+
+
+
+### Current Mission
+
+
+
+Building products, growing startups, contributing to open source, and creating technology that delivers measurable value.
