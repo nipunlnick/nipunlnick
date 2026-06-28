@@ -50,11 +50,11 @@ AI-powered grant discovery platform that helps startups, researchers, NGOs, and 
 
 
 
-### 🎓 SL Aptitude
+### 💰 EventZ By RN
 
 
 
-Exam preparation platform designed to help Sri Lankan students practice aptitude and competitive examinations.
+A modern event management platform with inquiry and quotation workflows.
 
 
 
@@ -66,15 +66,15 @@ Exam preparation platform designed to help Sri Lankan students practice aptitude
 
 
 
-### 🌐 Sri Lanka Water Partnership Website & CMS
+### 🎓 SL Aptitude
 
 
 
-Redesigned and developed the website and content management system for Sri Lanka Water Partnership.
+Exam preparation platform designed to help Sri Lankan students practice aptitude and competitive examinations.
 
 
 
-**Tech:** React, Node.js, Express, MongoDB
+**Tech:** Next.js, TypeScript, PostgreSQL
 
 
 
@@ -217,6 +217,10 @@ Git • GitHub • VS Code • Figma • Android Studio • Postman
 B.Sc. (Hons) Physical Science (Electronics & Information Technology)
 
 
+**SITC Campus**
+
+Diploma in Cyber Security & Ethical Hacking
+
 
 ---
 
@@ -238,7 +242,7 @@ B.Sc. (Hons) Physical Science (Electronics & Information Technology)
 
 
 
-📧 Business: [aceconsultants.info@gmail.com](mailto:aceconsultants.info@gmail.com)
+📧 Voxicore Solutions: [info.voxicore@gmail.com](mailto:info.voxicore@gmail.com)
 
 
 
